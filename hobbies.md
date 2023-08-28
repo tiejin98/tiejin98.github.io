@@ -32,7 +32,7 @@ In 2017, I attended an activity discussing Agatha Christie's mystery novels in C
 
 ## Moive
 
-If mystery novels provide me with a sense of rational thinking, then movies offer me an emotional experience. I appreciate not only the stories in moives (screenplay) but also how moives tell a story (edit and cinematography). I used to go to theater more than 40 times in one year. I also enjoy predicting the Oscar winners every year. You can find more information on my [blogs](https://tiejin1998.github.io/blogs/).
+If mystery novels provide me with a sense of rational thinking, then movies offer me an emotional experience. I appreciate not only the stories in moives (screenplay) but also how moives tell a story (edit and cinematography). I used to go to theater more than 40 times in one year. I also enjoy predicting the Oscar winners every year. You can find more information on my [blogs](https://tiejin98.github.io/blogs/).
 
 
 ## Other Hobbies

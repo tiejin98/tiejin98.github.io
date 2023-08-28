@@ -1,5 +1,3 @@
-# GuangLun means Nimbus in Chinese
-
 My name is **Tiejin Chen(陈铁今)**. I use the original template from [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
 <!-- 
 ## Update and News
