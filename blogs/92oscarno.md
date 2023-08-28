@@ -3,7 +3,7 @@ layout: page
 permalink: /blogs/92oscarno/index.html
 title: 92oscarno
 ---
-
+<br>
 最佳影片（Best Picture）
 
 《好莱坞往事》（Once Upon a Time in Hollywood）
@@ -26,8 +26,8 @@ title: 92oscarno
 
 先期预测：《1917》
 
- <br>
 
+ <br>
 最佳男主角（Best Actor）
 
 亚当德赖弗（Adam Driver）  《婚姻故事》(Marriage Story)
@@ -42,10 +42,12 @@ title: 92oscarno
 
 先期预测：杰昆菲尼克斯
 <br>
+
 前三席基本锁定，后两席应该是班德拉斯、贝尔、塔伦艾格顿三选二，贝尔稍有劣势。
+
 <br>
  
-
+<br>
 最佳女主角（Best Actress）:
 
 斯嘉丽约翰逊（Scarlett Johansson）《婚姻故事》(MarriageStory)
@@ -60,10 +62,12 @@ title: 92oscarno
 
 先期预测：蕾妮齐薇格
 <br>
+
 女主的战线和男主有点像，也是前三席基本锁定，后两席，罗南、Erivo、鹿皮塔和奥卡菲娜四选二。
+
 <br>
  
-
+<br>
 最佳导演（Best Director）
 
 奉俊昊（Bong Joon Ho）《寄生虫》 (Parasite)
@@ -78,10 +82,12 @@ title: 92oscarno
 
 先期预测：昆汀塔伦蒂诺
 <br>
+
 最后一席博个冷
+
 <br>
  
-
+<br>
 最佳男配（Best Supporting Actor）
 
 阿尔帕西诺（Al Pacino）《爱尔兰人》（TheIrishman）
@@ -96,10 +102,12 @@ title: 92oscarno
 
 先期预测：布拉德皮特
 <br>
+
 如果最后宋康昊能挤进提名我一点也不奇怪，就像去年我觉得罗马女主一定能提名一样。但是，这五个人的男配，那真的是非常恐怖和漂亮的名单。
+
 <br>
  
-
+<br>
 最佳女配（Best Supporting Actress）
 
 劳拉邓恩（Laura Dern）《婚姻故事》(Marriage Story)
@@ -115,7 +123,7 @@ title: 92oscarno
 先期预测：劳拉邓恩
 <br>
  
-
+<br>
 最佳原创剧本（Best OriginalScreenplay）
 
 《1917》
@@ -131,7 +139,7 @@ title: 92oscarno
 先期预测：寄生虫
 <br>
  
-
+<br>
 最佳改编剧本（Best AdaptedScreenplay）
 
 《爱尔兰人》（The Irishman）
@@ -147,7 +155,7 @@ title: 92oscarno
 先期预测：少年乔乔的异想世界
 <br>
  
-
+<br>
 最佳国际影片(Best International Film)
 
 《寄生虫》 (Parasite)
@@ -165,7 +173,7 @@ title: 92oscarno
  
 
  
-
+<br>
 最佳动画长片（Best Animated Feature）
 
 《玩具总动员4》（Toy Story 4）
@@ -179,9 +187,9 @@ title: 92oscarno
 《雪人奇缘》(Abominable)
 
 先期预测：遗失的环节
+<br>
 
- <br>
-
+<br>
 最佳摄影（Best Cinematography）
 
 《爱尔兰人》（The Irishman）
@@ -193,9 +201,9 @@ title: 92oscarno
 《好莱坞往事》（Once Upon a Time in Hollywood）
 
 《极速车王》 (Ford v Ferrari)
+<br>
 
- <br>
-
+<br>
 最佳服装设计（Best Costume Design）
 
 《好莱坞往事》（Once Upon a Time in Hollywood）
@@ -207,9 +215,9 @@ title: 92oscarno
 《火箭人》 (Rocketman)
 
 《利刃出鞘》（Knives Out）
+<br>
 
- <br>
-
+<br>
 最佳剪辑（Best Film Editing）
 
 《爱尔兰人》（The Irishman）
@@ -221,11 +229,9 @@ title: 92oscarno
 《寄生虫》 (Parasite)
 
 《少年乔乔的异想世界》 (JoJo Rabbit)
+<br>
 
- <br>
-
- 
-
+<br》
 最佳化妆和发型设计（Best Makeup and Hair）
 
 《爆炸新闻》（Bombshell）
@@ -237,9 +243,9 @@ title: 92oscarno
 《朱迪》（Judy）
 
 《小丑》 (Joker)
+<br>
 
- <br>
-
+<br>
 最佳美术指导（Best Production Design）
 
 《1917》
@@ -251,9 +257,9 @@ title: 92oscarno
 《少年乔乔的异想世界》 (JoJo Rabbit)
 
 《寄生虫》 (Parasite)
+<br>
 
- <br>
-
+<br>
 最佳配乐（Best Score）
 
 《1917》
@@ -265,9 +271,9 @@ title: 92oscarno
 《婚姻故事》(Marriage Story)
 
 《星球大战9》 （Star Wars: The Rise ofSkywalker）
+<br>
 
- <br>
-
+<br>
 最佳歌曲（Best Song）
 
 I'm Gonna Love Me Again 《火箭人》(Rocketman)
@@ -279,9 +285,9 @@ Into the Unknown 《冰雪奇缘2》(Frozen II)
 Speechless 《阿拉丁》(Aladdin)
 
 A Glass of Soju 《寄生虫》(Parasite)
+<br>
 
- <br>
-
+<br>
 最佳音响编辑（Best Sound Editing）
 
 《1917》
@@ -293,9 +299,9 @@ A Glass of Soju 《寄生虫》(Parasite)
 《好莱坞往事》（Once Upon a Time in Hollywood）
 
 《复仇者联盟4》 （Avengers: Endgame）
+<br>
 
- <br>
-
+<br>
 最佳音响效果（Best Sound Mixing）
 
 《1917》
@@ -309,7 +315,7 @@ A Glass of Soju 《寄生虫》(Parasite)
 《火箭人》(Rocketman)
 <br>
  
-
+<br>
 最佳视觉效果（Best Visual Effects）
 
 《复仇者联盟4》 （Avengers: Endgame）
