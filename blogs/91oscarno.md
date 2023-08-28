@@ -3,6 +3,7 @@ layout: page
 permalink: /blogs/91oscarno/index.html
 title: 91oscarno
 ---
+<br>
 
 最佳影片（Best Picture）
 
@@ -96,7 +97,9 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
  
 <br>
+
 山姆洛克威尔，梅开二度他来了?
+
 <br>
  
 
@@ -113,6 +116,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 梅丽尔斯特里普（Meryl Streep）《欢乐满人间2》（Mary Poppins Return）
 
 <br>
+
 我不管我不管，不管现在的Buzz多低，我就是要预测梅丽尔，梅4找4！认真讲的话，继去年男配三块广告牌双提后，今年宠儿的女配也要双提。什么时候双提这么不值钱了。雷吉纳金虽然掉了工会提名，但是前哨强势的表现应该让她可以确保一个奥提。
 
 <br> 
@@ -157,7 +161,9 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 《燃烧》（Burning）韩国
 <br>
+
 韩国历史上第一个奥外提名要来了？
+
 <br>
  
 
@@ -173,7 +179,9 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 《圣诞怪杰》
 <br>
+
 又是一年动画小年，前四个席位很稳，但是圣诞怪杰可能会被未来的未来顶替。
+
 <br>
  
 
@@ -227,6 +235,8 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 《阴风阵阵》（Suspiria）
 
+<br>
+
 压个阴风阵阵博个冷
 
  <br>
@@ -259,6 +269,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
  
 <br>
+
 最佳歌曲（Best Song）
 
 Shallow 《一个明星的诞生》（A star is born）
@@ -270,8 +281,11 @@ The Place Where Lost Things Go 《欢乐满人间2》（Mary Poppins Return）
 Girl in the Movies 《饺子公主》（Dumplin）
 
 Whena Cowboy Trades His Spurs for Wings 《巴斯特斯克鲁格斯的歌谣》（The Balladof Buster Scruggs）
+
 <br>
+
 一直不理解为什么Shallow是ASIB里面呼声最高的，明明I will never love again更好听来着。
+
 <br>
  
 
