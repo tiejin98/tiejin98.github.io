@@ -3,6 +3,9 @@ layout: page
 permalink: /blogs/92oscarno/index.html
 title: 92oscarno
 ---
+
+## 92届奥斯卡我的提名预测
+
 <br>
 最佳影片（Best Picture）
 
@@ -27,7 +30,7 @@ title: 92oscarno
 先期预测：《1917》
 
 
- <br>
+<br>
 最佳男主角（Best Actor）
 
 亚当德赖弗（Adam Driver）  《婚姻故事》(Marriage Story)

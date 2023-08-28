@@ -3,6 +3,9 @@ layout: page
 permalink: /blogs/91oscar/index.html
 title: 91oscar
 ---
+
+## 91届奥斯卡我的预测
+
 <br>
 
 最佳影片（Best Picture）
@@ -19,6 +22,7 @@ title: 91oscar
 <br>
 
 在影帝的争夺上，在这个颁奖季很早开始就是贝尔vs拉米了。贝尔拿下金球音喜，拉米拿下金球剧情。在刚刚出奥提的时候，贝尔能够凭借着广播的拿奖领先半个身位，但是拉米接连拿下sag和英奥，再次领先贝尔一个身位。
+
 <br>
 
 <br>
