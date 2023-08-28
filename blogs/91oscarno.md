@@ -26,11 +26,11 @@ title: 91oscarno
 
 《第一归正会》（First Reformed）
 
- 
+<br> 
 
 从这个阶段看的话，今年是非英语片历史上第一次夺得BP最好的机会，阿方索卡隆和他的罗马来势汹汹，而英语片又是一年小年。黑豹，第一个超英BP提名它lei了。
 
- 
+<br> 
 
 最佳男主角（Best Actor）
 
@@ -44,11 +44,11 @@ title: 91oscarno
 
 伊桑霍克（Ethan Hawke）《第一归正会》（First Reformed）
 
- 
+<br> 
 
 我相信就算是为了弥补去年男配前哨强势的达福突然就没了buzz的惨案，今年达福一定会提男主的。我还相信，影评人至少能把第一归正会的男主捧出来。
 
- 
+<br>
 
 最佳女主角（Best Actress）:
 
@@ -62,11 +62,11 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 雅利扎阿巴里西奥（Yalitza Aparicio）《《罗马》（Roma）
 
- 
+ <br>
 
 感觉前四席稳如狗啊，最后一个席位还需要竞争。
 
- 
+<br> 
 
 最佳导演（Best Director）
 
@@ -80,7 +80,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 斯派克李（Spike Lee）《黑色党徒》（BlacKkKlansman）
 
- 
+<br> 
 
 最佳男配（Best Supporting Actor）
 
@@ -95,9 +95,9 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 山姆艾里奥特（Sam Elliott）《一个明星的诞生》（A star is born）
 
  
-
+<br>
 山姆洛克威尔，梅开二度他来了?
-
+<br>
  
 
 最佳女配（Best Supporting Actress）
@@ -112,9 +112,10 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 梅丽尔斯特里普（Meryl Streep）《欢乐满人间2》（Mary Poppins Return）
 
+<br>
 我不管我不管，不管现在的Buzz多低，我就是要预测梅丽尔，梅4找4！认真讲的话，继去年男配三块广告牌双提后，今年宠儿的女配也要双提。什么时候双提这么不值钱了。雷吉纳金虽然掉了工会提名，但是前哨强势的表现应该让她可以确保一个奥提。
 
- 
+<br> 
 
 最佳原创剧本（Best OriginalScreenplay）
 
@@ -128,7 +129,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 《八年级》（Eighth Grade）
 
- 
+ <br>
 
 最佳改编剧本（Best AdaptedScreenplay）
 
@@ -142,7 +143,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 《摘金奇缘》（Crazy Rich Asians）
 
- 
+ <br>
 
 最佳外语片(Best Foreign Language Film)
 
@@ -155,9 +156,9 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 《迦百农》（Cafarnaúm）黎巴嫩
 
 《燃烧》（Burning）韩国
-
+<br>
 韩国历史上第一个奥外提名要来了？
-
+<br>
  
 
 最佳动画长片（Best Animated Feature）
@@ -171,9 +172,9 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 《蜘蛛侠：平行宇宙》
 
 《圣诞怪杰》
-
+<br>
 又是一年动画小年，前四个席位很稳，但是圣诞怪杰可能会被未来的未来顶替。
-
+<br>
  
 
 最佳摄影（Best Cinematography）
@@ -188,7 +189,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 《第一人》（First Man）
 
- 
+ <br>
 
 最佳服装设计（Best Costume Design）
 
@@ -202,7 +203,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 《波西米亚狂想曲》（Bohemian Rhapsody）
 
- 
+ <br>
 
 最佳剪辑（Best Film Editing）
 
@@ -216,7 +217,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 《宠儿》（The Favorite）
 
- 
+ <br>
 
 最佳化妆和发型设计（Best Makeup and Hair）
 
@@ -228,7 +229,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 压个阴风阵阵博个冷
 
- 
+ <br>
 
 最佳美术指导（Best Production Design）
 
@@ -242,7 +243,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 
 《第一人》（First Man）
 
- 
+ <br>
 
 最佳配乐（Best Score）
 
@@ -257,7 +258,7 @@ Lady GaGa 《一个明星的诞生》（A star is born）
 《欢乐满人间2》（Mary Poppins Return）
 
  
-
+<br>
 最佳歌曲（Best Song）
 
 Shallow 《一个明星的诞生》（A star is born）
@@ -269,9 +270,9 @@ The Place Where Lost Things Go 《欢乐满人间2》（Mary Poppins Return）
 Girl in the Movies 《饺子公主》（Dumplin）
 
 Whena Cowboy Trades His Spurs for Wings 《巴斯特斯克鲁格斯的歌谣》（The Balladof Buster Scruggs）
-
+<br>
 一直不理解为什么Shallow是ASIB里面呼声最高的，明明I will never love again更好听来着。
-
+<br>
  
 
 最佳音响编辑（Best Sound Editing）
@@ -286,7 +287,7 @@ Whena Cowboy Trades His Spurs for Wings 《巴斯特斯克鲁格斯的歌谣》�
 
 《碟中谍6》（Mission Impossible:Fallout）
 
- 
+ <br>
 
 最佳音响效果（Best Sound Mixing）
 
@@ -300,7 +301,7 @@ Whena Cowboy Trades His Spurs for Wings 《巴斯特斯克鲁格斯的歌谣》�
 
 《欢乐满人间2》（Mary Poppins Return）
 
- 
+ <br>
 
 最佳视觉效果（Best Visual Effects）
 

@@ -9,9 +9,9 @@ title: Hobbies
 ## Mystery Novel
 
 <div class="third">
-<img src="/images/mn1.JPG">
-<img src="/images/mn2.JPG">
-<img src="/images/mn3.JPG">
+<img src="/images/mn1.jpg">
+<img src="/images/mn2.jpg">
+<img src="/images/mn3.jpg">
 </div>
 
 I became a big fan of mystery novels when I was in high school. They attracted me with seemingly impossible mysteries and surprising answers to those mysteries. Moreover, the strict logic behind the answers and the incredible feeling when I solved a mystery motivated me to pursue my PhD. My top-3 favorite mystery novel writers are Ellery Queen, Shinzou Mitsuda (三津田信三), and Yutaka Maya (麻耶雄嵩).
@@ -38,14 +38,7 @@ If mystery novels provide me with a sense of rational thinking, then movies offe
 ## Other Hobbies
 
 I derive enjoyment from all forms of story-based entertainment, ranging from video games and animations to TV series. However, I've noticed that these activities require more time. Therefore, I seldom engage in these activities right now. Some of my favorite games and animations are Puella Magi Madoka Magica, Red Dead Redemption 2, and Phoenix Wright: Ace Attorney.
-<!-- ## My Cat
 
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br> --> 
 
 ## Chat with me
 If you want to chat with me, feel free to send an email to arrange a suitable time(and what you want to talk).
@@ -56,5 +49,5 @@ If you want to chat with me, feel free to send an email to arrange a suitable ti
 <!-- 
 <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-Calendly inline widget end --> -->
+Calendly inline widget end -->
 

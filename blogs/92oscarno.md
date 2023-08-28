@@ -26,7 +26,7 @@ title: 92oscarno
 
 先期预测：《1917》
 
- 
+ <br>
 
 最佳男主角（Best Actor）
 
@@ -41,9 +41,9 @@ title: 92oscarno
 塔伦艾格顿（Taron Egerton） 《火箭人》 (Rocketman)
 
 先期预测：杰昆菲尼克斯
-
+<br>
 前三席基本锁定，后两席应该是班德拉斯、贝尔、塔伦艾格顿三选二，贝尔稍有劣势。
-
+<br>
  
 
 最佳女主角（Best Actress）:
@@ -59,9 +59,9 @@ title: 92oscarno
 辛西娅埃里沃(Cynthia Erivo) 《哈里特》（Harriet）
 
 先期预测：蕾妮齐薇格
-
+<br>
 女主的战线和男主有点像，也是前三席基本锁定，后两席，罗南、Erivo、鹿皮塔和奥卡菲娜四选二。
-
+<br>
  
 
 最佳导演（Best Director）
@@ -77,9 +77,9 @@ title: 92oscarno
 佩德罗阿莫多瓦（Pedro Almodovar）《痛苦与荣耀》(Painand Glory)
 
 先期预测：昆汀塔伦蒂诺
-
+<br>
 最后一席博个冷
-
+<br>
  
 
 最佳男配（Best Supporting Actor）
@@ -95,9 +95,9 @@ title: 92oscarno
 安东尼霍普金斯（Anthony Hopkins）《教宗的继承》（TheTwo Popes）
 
 先期预测：布拉德皮特
-
+<br>
 如果最后宋康昊能挤进提名我一点也不奇怪，就像去年我觉得罗马女主一定能提名一样。但是，这五个人的男配，那真的是非常恐怖和漂亮的名单。
-
+<br>
  
 
 最佳女配（Best Supporting Actress）
@@ -113,7 +113,7 @@ title: 92oscarno
 李静恩（Lee Jung Eun）《寄生虫》 (Parasite)
 
 先期预测：劳拉邓恩
-
+<br>
  
 
 最佳原创剧本（Best OriginalScreenplay）
@@ -129,7 +129,7 @@ title: 92oscarno
 《利刃出鞘》（Knives Out）
 
 先期预测：寄生虫
-
+<br>
  
 
 最佳改编剧本（Best AdaptedScreenplay）
@@ -145,7 +145,7 @@ title: 92oscarno
 《教宗的继承》（The Two Popes）
 
 先期预测：少年乔乔的异想世界
-
+<br>
  
 
 最佳国际影片(Best International Film)
@@ -161,7 +161,7 @@ title: 92oscarno
 《被涂污的鸟》 （The Painted Bird）
 
 先期预测：《寄生虫》 (Parasite) 这个还需要先期预测？板上钉钉
-
+<br>
  
 
  
@@ -180,7 +180,7 @@ title: 92oscarno
 
 先期预测：遗失的环节
 
- 
+ <br>
 
 最佳摄影（Best Cinematography）
 
@@ -194,7 +194,7 @@ title: 92oscarno
 
 《极速车王》 (Ford v Ferrari)
 
- 
+ <br>
 
 最佳服装设计（Best Costume Design）
 
@@ -208,7 +208,7 @@ title: 92oscarno
 
 《利刃出鞘》（Knives Out）
 
- 
+ <br>
 
 最佳剪辑（Best Film Editing）
 
@@ -222,7 +222,7 @@ title: 92oscarno
 
 《少年乔乔的异想世界》 (JoJo Rabbit)
 
- 
+ <br>
 
  
 
@@ -238,7 +238,7 @@ title: 92oscarno
 
 《小丑》 (Joker)
 
- 
+ <br>
 
 最佳美术指导（Best Production Design）
 
@@ -252,7 +252,7 @@ title: 92oscarno
 
 《寄生虫》 (Parasite)
 
- 
+ <br>
 
 最佳配乐（Best Score）
 
@@ -266,7 +266,7 @@ title: 92oscarno
 
 《星球大战9》 （Star Wars: The Rise ofSkywalker）
 
- 
+ <br>
 
 最佳歌曲（Best Song）
 
@@ -280,7 +280,7 @@ Speechless 《阿拉丁》(Aladdin)
 
 A Glass of Soju 《寄生虫》(Parasite)
 
- 
+ <br>
 
 最佳音响编辑（Best Sound Editing）
 
@@ -294,7 +294,7 @@ A Glass of Soju 《寄生虫》(Parasite)
 
 《复仇者联盟4》 （Avengers: Endgame）
 
- 
+ <br>
 
 最佳音响效果（Best Sound Mixing）
 
@@ -307,7 +307,7 @@ A Glass of Soju 《寄生虫》(Parasite)
 《好莱坞往事》（Once Upon a Time in Hollywood）
 
 《火箭人》(Rocketman)
-
+<br>
  
 
 最佳视觉效果（Best Visual Effects）
@@ -321,6 +321,6 @@ A Glass of Soju 《寄生虫》(Parasite)
 《星球大战9》 （Star Wars: The Rise ofSkywalker）
 
 《1917》
-
+<br>
 
 
