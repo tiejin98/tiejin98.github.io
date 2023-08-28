@@ -1,22 +1,22 @@
-title: Hanlin Cai
+title: Tiejin Chen
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://tiejin1998.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Tiejin Chen
+  avatar: tiejin-bio.png
 #  bio:
-  email: hanlin.cai@ieee.org
+  email: tiejin@asu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # instagram: lancecai2002
+  #twitter: 
+  # facebook: 
+  github: tiejin1998
+  linkedin: 铁今-tiejin-chen-陈-1ba97a169
+  #scholar: 
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -24,7 +24,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: "G-9266B0MPLY"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -35,20 +35,20 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+    url: /file/CV-tiejin-081723.pdf
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Awards
+  #   url: /awards/
+  # - title: Fundings
+  #   url: /fundings/
+  # - title: Hobbies
+  #   url: /hobbies/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: America/Phoenix
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -77,11 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: tiejin
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-
-# Latest update in 2023/08/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
