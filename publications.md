@@ -16,9 +16,4 @@ Lastest Update: 27th Aug 2023&nbsp;
 ## Working Manuscript
 
 Two papers are under review by AAAI 2024.
-<!-- 
-- BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)<br>AAAI Conference on Artificial Intelligence (AAAI 2024, CCF-A). Under review.<br> -->
 
-
-
-  <br>
