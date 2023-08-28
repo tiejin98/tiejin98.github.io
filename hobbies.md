@@ -15,7 +15,7 @@ title: Hobbies
 </div>
 
 I became a big fan of mystery novels when I was in high school. They attracted me with seemingly impossible mysteries and surprising answers to those mysteries. Moreover, the strict logic behind the answers and the incredible feeling when I solved a mystery motivated me to pursue my PhD. My top-3 favorite mystery novel writers are Ellery Queen, Shinzou Mitsuda (三津田信三), and Yutaka Maya (麻耶雄嵩).
-
+<br>
 In 2017, I attended an activity discussing Agatha Christie's mystery novels in Chengdu. The activity was hosted by a Chinese mystery novel writer, Yehua Lu (陆烨华). The three images above show the presentation title given by Yehua Lu and his appreciation for the classic mystery novels.
 
 <!-- <div class="third">
