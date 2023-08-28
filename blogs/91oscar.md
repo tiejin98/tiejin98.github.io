@@ -3,7 +3,7 @@ layout: page
 permalink: /blogs/91oscar/index.html
 title: 91oscar
 ---
-
+<br>
 
 最佳影片（Best Picture）
 《罗马》（Roma）
@@ -19,6 +19,8 @@ title: 91oscar
 <br>
 
 在影帝的争夺上，在这个颁奖季很早开始就是贝尔vs拉米了。贝尔拿下金球音喜，拉米拿下金球剧情。在刚刚出奥提的时候，贝尔能够凭借着广播的拿奖领先半个身位，但是拉米接连拿下sag和英奥，再次领先贝尔一个身位。
+<br>
+
 <br>
 
 最佳女主角（Best Actress）:
@@ -50,6 +52,7 @@ title: 91oscar
 四大演技奖中唯一一个横扫四大风向标。阿里唯一可能的输掉的原因是一部分人可能会认为阿里三年两封有点太快了。
 
 <br>
+
 最佳女配（Best Supporting Actress）
 
 蕾切尔·薇姿（Rachel Weisz）《宠儿》（The favorite）
@@ -80,6 +83,7 @@ title: 91oscar
 依然是本届最混乱之一，风向标给了3个不同的作品加上歌谣是威尼斯的剧本奖再加上USC给的也是一个没奥提的叶落无痕..
 
 <br>
+
 最佳外语片(Best Foreign Language Film)
 
 《罗马》（Roma） 墨西哥
