@@ -7,17 +7,17 @@ title: Publications
 Lastest Update: 27th Aug 2023&nbsp; 
 
 ## Preprints
-- [Learning Sparsity and Randomness for Data-driven Low Rank Approximation](https://arxiv.org/abs/2212.08186)<br>**Tiejin Chen^{*}**, Yicheng Tao^{*}<br>
+- [Learning Sparsity and Randomness for Data-driven Low Rank Approximation](https://arxiv.org/abs/2212.08186)<br>**Tiejin Chen<sup>*</sup>**, Yicheng Tao<sup>*</sup><br>
 
 - [Federated Learning with Projected Trajectory Regularization](https://arxiv.org/abs/2312.14380)
-<br>**Tiejin Chen^{*}**, Yuanpu Cao^{*}, Yujia Wang^{*}, Cho-Jui Hsieh, Jinghui Chen<br>
+<br>**Tiejin Chen<sup>*</sup>**, Yuanpu Cao<sup>*</sup>, Yujia Wang<sup>*</sup>, Cho-Jui Hsieh, Jinghui Chen<br>
 
 - [Open-TI: Open Traffic Intelligence with Augmented Language Model](https://arxiv.org/abs/2401.00211)
 <br>Longchao Da, Kuanru Liou, **Tiejin Chen**, Xuesong Zhou, Xiangyong Luo, Yezhou Yang, Huawei<br>
 
 ## Conference Paper
 - [Uncertainty Regularized Evidential Regression](https://arxiv.org/abs/2401.01484)
-<br>Kai Ye, **Tiejin Chen**, Hua Wei, Liang Zhan<br><br>In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24).<br>
+<br>Kai Ye, <b>Tiejin Chen<b>, Hua Wei, Liang Zhan<br><br>In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24).<br>
 
 ## Journal Paper
 
