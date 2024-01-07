@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 27th Aug 2023&nbsp; 
+Lastest Update: 01/06/2024&nbsp; 
 
 ## Preprints
 - [Learning Sparsity and Randomness for Data-driven Low Rank Approximation](https://arxiv.org/abs/2212.08186)<br>**Tiejin Chen<sup>*</sup>**, Yicheng Tao<sup>*</sup><br>
