@@ -234,7 +234,7 @@ title: 92oscarno
 《少年乔乔的异想世界》 (JoJo Rabbit)
 <br>
 
-<br》
+<br>
 最佳化妆和发型设计（Best Makeup and Hair）
 
 《爆炸新闻》（Bombshell）
