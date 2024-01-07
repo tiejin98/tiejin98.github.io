@@ -17,7 +17,7 @@ Lastest Update: 01/06/2024&nbsp;
 
 ## Conference Paper
 - [Uncertainty Regularized Evidential Regression](https://arxiv.org/abs/2401.01484)
-<br>Kai Ye, <b>Tiejin Chen<b>, Hua Wei, Liang Zhan<br><br>In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24).<br>
+<br>Kai Ye, **Tiejin Chen**, Hua Wei, Liang Zhan<br>In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24).<br>
 
 ## Journal Paper
 
