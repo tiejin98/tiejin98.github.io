@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 01/06/2024&nbsp; 
+Lastest Update: 03/09/2024&nbsp; 
 
 ## Preprints
 - [Learning Sparsity and Randomness for Data-driven Low Rank Approximation](https://arxiv.org/abs/2212.08186)<br>**Tiejin Chen<sup>*</sup>**, Yicheng Tao<sup>*</sup><br>
@@ -16,6 +16,9 @@ Lastest Update: 01/06/2024&nbsp;
 <br>Longchao Da, Kuanru Liou, **Tiejin Chen**, Xuesong Zhou, Xiangyong Luo, Yezhou Yang, Huawei<br>
 
 ## Conference Paper
+- [Privacy-preserving Finetuning of Large Language Models through Flatness](https://arxiv.org/abs/2403.04124)
+<br>**Tiejin Chen**, Longchao Da, Huixue Zhou, Pingzhi Li, Kaizhong Zhou, Tianlong Chen, Hua Wei<br>SeT LLM Workshop @ ICLR2024.<br>
+
 - [Uncertainty Regularized Evidential Regression](https://arxiv.org/abs/2401.01484)
 <br>Kai Ye, **Tiejin Chen**, Hua Wei, Liang Zhan<br>In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24).<br>
 
@@ -25,4 +28,4 @@ Lastest Update: 01/06/2024&nbsp;
 
 ## Working Manuscript
 
-One paper is under review of EuroSys2024.
+One paper is under review of USENIX2024 and one paper is under review of ECCV2024.
