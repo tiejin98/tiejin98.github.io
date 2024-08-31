@@ -34,7 +34,7 @@ I am a first year Ph.D. student in **Computer Science** at Arizona State Univers
 ---
 
 ## Service
-External Reviewer: PAKDD 2024, ICLR 2024 SeT LLM Workshop
+External Reviewer: PAKDD 2024, ICLR 2024 SeT LLM Workshop, WACV 2025.
 
 <br>
 
