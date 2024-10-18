@@ -37,7 +37,7 @@ If mystery novels provide me with a sense of rational thinking, then movies offe
 
 ## Other Hobbies
 
-I derive enjoyment from all forms of story-based entertainment, ranging from video games and animations to TV series. However, I've noticed that these activities require more time. Therefore, I seldom engage in these activities right now. Some of my favorite games and animations are Puella Magi Madoka Magica, Red Dead Redemption 2, and Phoenix Wright: Ace Attorney.
+I derive enjoyment from all forms of story-based entertainment, ranging from video games and animations to TV series. However, I've noticed that these activities require more time. Therefore, I seldom engage in these activities right now. Some of my favorite games and animations are Puella Magi Madoka Magica, Sakura no Uta, Red Dead Redemption 2, and Phoenix Wright: Ace Attorney.
 
 <!-- 
 ## Chat with me
