@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 08/15/2024&nbsp; 
+Lastest Update: 10/15/2024&nbsp; 
 
 ## Preprints
 
@@ -25,6 +25,9 @@ Lastest Update: 08/15/2024&nbsp;
 
 
 ## Conference Paper
+- [Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models](https://openreview.net/forum?id=t5z1WcB1cz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FSafeGenAi%2FAuthors%23your-submissions))
+<br>**Tiejin Chen<sup>*</sup>**, Kaishen Wang<sup>*</sup>, Hua Wei<br> Neurips 2024 SageGenAI Workshop<br>
+
 - [SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras](https://arxiv.org/abs/2408.09588)
 <br>**Tiejin Chen<sup>*</sup>**, Prithvi Parag Shirke<sup>*</sup>, Bharatesh Chakravarthi, Arpitsinh Rohitkumar Vaghela, Longchao Da, Duo Lu, Yezhou Yang, Hua Wei<br> In Proceedings of 27th IEEE International Conference on Intelligent Transportation Systems (ITSC'24).<br>
 
@@ -44,5 +47,5 @@ Lastest Update: 08/15/2024&nbsp;
 - [Prison term prediction of dangerous driving based on probabilistic graphical mode](https://science.scu.edu.cn/jsunature_en/article/abstract/z200575)<br>Chen Hongxu, **Chen Tiejin**, Wang Hao, Tian Wei<br>Journal of Sichuan University（Natural Science Edition）<br>
 
 ## Working Manuscript
-One unpublic paper is under review of EMNLP nad another unpublic paper is under review of AAAI.
+One unpublic paper is under review of NAACL, one unpublic paper is under review of AAAI nad one unpublic paper under review of ICLR.
 

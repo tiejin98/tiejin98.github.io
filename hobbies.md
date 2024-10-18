@@ -39,9 +39,9 @@ If mystery novels provide me with a sense of rational thinking, then movies offe
 
 I derive enjoyment from all forms of story-based entertainment, ranging from video games and animations to TV series. However, I've noticed that these activities require more time. Therefore, I seldom engage in these activities right now. Some of my favorite games and animations are Puella Magi Madoka Magica, Red Dead Redemption 2, and Phoenix Wright: Ace Attorney.
 
-
+<!-- 
 ## Chat with me
-If you want to chat with me, feel free to send an email to arrange a suitable time(and what you want to talk).
+If you want to chat with me, feel free to send an email to arrange a suitable time(and what you want to talk). -->
 
 <!-- **Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
 
