@@ -26,7 +26,7 @@ Lastest Update: 10/15/2024&nbsp;
 
 ## Conference Paper
 - [Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models](https://openreview.net/forum?id=t5z1WcB1cz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FSafeGenAi%2FAuthors%23your-submissions))
-<br>**Tiejin Chen<sup>*</sup>**, Kaishen Wang<sup>*</sup>, Hua Wei<br> Neurips 2024 SageGenAI Workshop<br>
+<br>**Tiejin Chen<sup>*</sup>**, Kaishen Wang<sup>*</sup>, Hua Wei<br>SageGenAI Workshop @ Neurips2024.<br>
 
 - [SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras](https://arxiv.org/abs/2408.09588)
 <br>**Tiejin Chen<sup>*</sup>**, Prithvi Parag Shirke<sup>*</sup>, Bharatesh Chakravarthi, Arpitsinh Rohitkumar Vaghela, Longchao Da, Duo Lu, Yezhou Yang, Hua Wei<br> In Proceedings of 27th IEEE International Conference on Intelligent Transportation Systems (ITSC'24).<br>
