@@ -47,5 +47,5 @@ Lastest Update: 10/15/2024&nbsp;
 - [Prison term prediction of dangerous driving based on probabilistic graphical mode](https://science.scu.edu.cn/jsunature_en/article/abstract/z200575)<br>Chen Hongxu, **Chen Tiejin**, Wang Hao, Tian Wei<br>Journal of Sichuan University（Natural Science Edition）<br>
 
 ## Working Manuscript
-One unpublic paper is under review of NAACL, one unpublic paper is under review of AAAI nad one unpublic paper under review of ICLR.
+One unpublic paper is under review of NAACL, one unpublic paper is under review of AAAI and two papers are under review of ICLR.
 
