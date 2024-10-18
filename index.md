@@ -19,8 +19,6 @@ I am a second year Ph.D. student in **Computer Science** at Arizona State Univer
 - **Aug 2021 - May 2023:** University of Michigan Ann Arbor (Ms)
 - **Sep 2016 - June 2020:** Sichuan University (BSc)
 
-<br>
-
 ---
 
 ## Research Interests
@@ -28,19 +26,19 @@ I am a second year Ph.D. student in **Computer Science** at Arizona State Univer
 - Trustworthy Reinforcement Learning
 - Trustworthy and Efficient Machine Learning
 
-
-<br>
-
 ---
 
 ## Service
 Program Committee: PAKDD 2024, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 2024 SafeGenAI Workshop, ICLR 2025, SDM 2025.
 
-<br>
+---
 
 ## News
 - **Oct-2024** One paper is accepted by Neurips2024 SafeGenAI Workshop. See you at Vancouver!
 - **July-2024** One paper is accepted by ITSC 24'. See your at Edmonton!
+
+---
+
 
 ## Chat with me
 If you want to chat with me, feel free to send an email to arrange a suitable time(and what you want to talk).
