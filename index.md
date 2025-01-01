@@ -29,11 +29,12 @@ I am a second year Ph.D. student in **Computer Science** at Arizona State Univer
 ---
 
 ## Service
-Program Committee: PAKDD 2024, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 2024 SafeGenAI Workshop, ICLR 2025, SDM 2025.
+Program Committee: PAKDD 2024, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 2024 SafeGenAI Workshop, ICLR 2025, SDM 2025, CVPR2025.
 
 ---
 
 ## News
+- **Dec-2024** One paper is accepted by SDM 24'. See you at Alexandria Virginia!
 - **Oct-2024** One paper is accepted by Neurips2024 SafeGenAI Workshop. See you at Vancouver!
 - **July-2024** One paper is accepted by ITSC 24'. See your at Edmonton!
 
