@@ -14,7 +14,7 @@ Large Language Models (LLMs) have become increasingly prevalent in various appli
 
 Traditional methods to protect privacy in LLMs, like Differential Privacy (DP) techniques such as DP-SGD, often lead to a noticeable drop in model performance. As shown in Figure 1, DP-trained models tend to have a **sharper loss landscape**, meaning that small changes to model weights can drastically impact performance. This paper explores the idea that a flatter loss landscape can simultaneously enhance **privacy** and **generalization ability**.
 
-![Figure 1: Sharp vs. Flat Loss Landscapes](https://tiejin98.github.io/blog_image/privacy_flat/Figure1.pdf)
+![Figure 1: Sharp vs. Flat Loss Landscapes](https://tiejin98.github.io/blog_image/privacy_flat/fig1.png)
 
 ---
 
@@ -36,7 +36,7 @@ The core idea of Privacy-Flat is to enforce appropriate weight flatness through 
 
 These strategies work together to smooth the sharp local minima that often result from DP training. **Figure 2** illustrates the three components of the Privacy-Flat framework.
 
-![Figure 2: Privacy-Flat Framework](https://tiejin98.github.io/blog_image/privacy_flat/Figure2.pdf)
+![Figure 2: Privacy-Flat Framework](https://tiejin98.github.io/blog_image/privacy_flat/fig2.png)
 
 The result is a flatter loss landscape, as seen in **Figure 3**, achieved by integrating the proposed weight flattening methods with DP-trained prefix tuning.
 
@@ -51,7 +51,7 @@ Comprehensive experiments were conducted in both **white-box** (where the model'
 - **Improve model performance** in various NLP tasks, including text classification and text generation. In some cases, Privacy-Flat even outperforms non-private fine-tuning.
 - **Maintain strong privacy protection**, comparable to traditional DP methods. As shown in **Figure 4**, the Membership Inference Attack (MIA) accuracy is similar to that of DP-trained models, indicating that Privacy-Flat does not compromise privacy.
 
-![Figure 4: Membership Inference Attack Accuracy](https://tiejin98.github.io/blog_image/privacy_flat/Figure4.pdf)
+![Figure 4: Membership Inference Attack Accuracy](https://tiejin98.github.io/blog_image/privacy_flat/fig4.png)
 
 - **Bridge the performance gap** between private and non-private LLMs, especially under the white-box setting. In the black-box setting, the performance gap is bigger, but Privacy-Flat still shows better accuracy under the privacy setting.
 
