@@ -16,6 +16,7 @@ Traditional methods to protect privacy in LLMs, like Differential Privacy (DP) t
 
 ![Figure 1: Sharp vs. Flat Loss Landscapes](https://tiejin98.github.io/blog_image/privacy_flat/fig1.png)
 *Figure 1: Sharp vs. Flat Loss Landscapes*
+
 ---
 
 ## Privacy-Flat: A Holistic Approach
