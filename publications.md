@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 10/15/2024&nbsp; 
+Lastest Update: 12/20/2024&nbsp; 
 
 ## Preprints
 
@@ -25,14 +25,16 @@ Lastest Update: 10/15/2024&nbsp;
 
 
 ## Conference Paper
+
+- [Protecting Privacy against Membership Inference Attack with LLM Fine-tuning through Flatness](https://arxiv.org/abs/2403.04124)
+<br>**Tiejin Chen**, Longchao Da, Huixue Zhou, Pingzhi Li, Kaizhong Zhou, Tianlong Chen, Hua Wei<br>In SIAM International Conference on Data Mining (SDM'25). (Short version presented at ICLR 2024 Workshop on Secure and Trustworthy Large Language Models)<br>
+
+
 - [Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models](https://openreview.net/forum?id=t5z1WcB1cz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FSafeGenAi%2FAuthors%23your-submissions))
 <br>**Tiejin Chen<sup>*</sup>**, Kaishen Wang<sup>*</sup>, Hua Wei<br>SageGenAI Workshop @ Neurips2024.<br>
 
 - [SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras](https://arxiv.org/abs/2408.09588)
 <br>**Tiejin Chen<sup>*</sup>**, Prithvi Parag Shirke<sup>*</sup>, Bharatesh Chakravarthi, Arpitsinh Rohitkumar Vaghela, Longchao Da, Duo Lu, Yezhou Yang, Hua Wei<br> In Proceedings of 27th IEEE International Conference on Intelligent Transportation Systems (ITSC'24).<br>
-
-- [Privacy-preserving Finetuning of Large Language Models through Flatness](https://arxiv.org/abs/2403.04124)
-<br>**Tiejin Chen**, Longchao Da, Huixue Zhou, Pingzhi Li, Kaizhong Zhou, Tianlong Chen, Hua Wei<br>SeT LLM Workshop @ ICLR2024.<br>
 
 - [Uncertainty Regularized Evidential Regression](https://arxiv.org/abs/2401.01484)
 <br>Kai Ye, **Tiejin Chen**, Hua Wei, Liang Zhan<br>In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24).<br>
