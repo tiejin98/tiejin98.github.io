@@ -42,7 +42,7 @@ Program Committee: PAKDD 2024, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 20
 
 
 ## Chat with me
-If you want to chat with me, feel free to send an email to arrange a suitable time(and what you want to talk).
+If you want to chat with me, feel free to send an email to arrange a suitable time(and what you want to talk) or you could book a meeting time [here] (https://calendar.app.google/wLpUmHN1ZSkkXouH8).
 <br>
 
 ---
