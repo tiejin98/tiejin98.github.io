@@ -7,6 +7,8 @@ title: Publications
 Lastest Update: 01/01/2025&nbsp; 
 
 ## Preprints
+- [Uncertainty Quantification of Large Language Models through Multi-Dimensional Responses](https://arxiv.org/abs/2502.16820)
+<br>**Tiejin Chen**, Xiaoou Liu, Longchao Da, Jia Chen, Vagelis Papalexakis, Hua Wei<br>
 
 - [Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013)
 <br>**Tiejin Chen**, Wenwang Huang, Linsey Pang, Dongsheng Luo, Hua Wei<br>
@@ -49,5 +51,5 @@ Lastest Update: 01/01/2025&nbsp;
 - [Prison term prediction of dangerous driving based on probabilistic graphical mode](https://science.scu.edu.cn/jsunature_en/article/abstract/z200575)<br>Chen Hongxu, **Chen Tiejin**, Wang Hao, Tian Wei<br>Journal of Sichuan University（Natural Science Edition）<br>
 
 ## Working Manuscript
-One unpublic paper is under review of NAACL, one unpublic paper is under review of AAAI and two papers are under review of ICLR.
+three unpublic paper is under review of ACL.
 
