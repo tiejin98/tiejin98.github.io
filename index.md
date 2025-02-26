@@ -7,7 +7,7 @@ layout: page
 <!-- <img src="https://tiejin1998.github.io/tiejin-bio.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Tiejin Chen (陈铁今)**.
-I am a second year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_022425.pdf).
+I am a second year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_022625.pdf).
 
 <br>
 
@@ -29,7 +29,7 @@ I am a second year Ph.D. student in **Computer Science** at Arizona State Univer
 ---
 
 ## Service
-Program Committee: PAKDD 2024, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 2024 SafeGenAI Workshop, ICLR 2025, SDM 2025, CVPR2025.
+Program Committee: PAKDD 2024, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 2024 SafeGenAI Workshop, ICLR 2025, SDM 2025, CVPR2025, ICCV2025.
 
 ---
 
