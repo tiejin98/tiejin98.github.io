@@ -7,7 +7,7 @@ title: Publications
 Lastest Update: 03/18/2025&nbsp; 
 
 ## Preprints
-- [Uncertainty Quantification of Large Language Models through Multi-Dimensional Responses](https://arxiv.org/abs/2503.07158)
+- [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
 <br>Longchao Da, **Tiejin Chen**, Zhuoheng Li, Shreyas Bachiraju, Huaiyuan Yao, Li Li, Yushun Dong, Xiyang Hu, Zhengzhong Tu, Dongjie Wang, Yue Zhao, Xuanyu (Ben)Zhou, Ram Pendyala, Benjamin Stabler, Yezhou Yang, Xuesong Zhou, Hua Wei<br>
 
 - [Uncertainty Quantification of Large Language Models through Multi-Dimensional Responses](https://arxiv.org/abs/2502.16820)
