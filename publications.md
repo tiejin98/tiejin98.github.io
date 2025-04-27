@@ -4,9 +4,15 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 03/18/2025&nbsp; 
+Lastest Update: 04/26/2025&nbsp; 
 
 ## Preprints
+- [An Adaptive Weighted QITE-VQE Algorithm for Combinatorial Optimization Problems](https://arxiv.org/pdf/2504.10651)
+<br> Ningyi Xie, Xinwei Lee, **Tiejin Chen**, Yoshiyuki Saito, Nobuyoshi Asai, Dongsheng Cai<br>
+
+- [Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey](https://arxiv.org/pdf/2503.15850)
+<br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>,  Longchao Da, Chacha Chen, Zhen Lin, Hua Weii<br>
+
 - [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
 <br>Longchao Da, **Tiejin Chen**, Zhuoheng Li, Shreyas Bachiraju, Huaiyuan Yao, Li Li, Yushun Dong, Xiyang Hu, Zhengzhong Tu, Dongjie Wang, Yue Zhao, Xuanyu (Ben)Zhou, Ram Pendyala, Benjamin Stabler, Yezhou Yang, Xuesong Zhou, Hua Wei<br>
 
