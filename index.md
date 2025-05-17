@@ -7,7 +7,7 @@ layout: page
 <!-- <img src="https://tiejin1998.github.io/tiejin-bio.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Tiejin Chen (陈铁今)**.
-I am a second year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_042625.pdf).
+I am a second year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_051625.pdf).
 
 <br>
 
@@ -34,11 +34,12 @@ Reviewer: PAKDD 2024, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 2024 SafeGe
 ---
 
 ## News
+- **May-2025** Two paper is accepted by ACL 25' Findings. See you at Vienna!
+- **May-2025** One paper is accepted by KDD 25'. See you at Toronta!
 - **Apr-2025** Excited to share that I will join Toyota North Inc. this summer as an intern!
 - **Dec-2024** One paper is accepted by SDM 25'. See you at Alexandria Virginia!
 - **Oct-2024** One paper is accepted by Neurips2024 SafeGenAI Workshop. See you at Vancouver!
 - **July-2024** One paper is accepted by ITSC 24'. See your at Edmonton!
-
 ---
 
 

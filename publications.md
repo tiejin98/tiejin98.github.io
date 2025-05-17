@@ -10,9 +10,6 @@ Lastest Update: 04/26/2025&nbsp;
 - [An Adaptive Weighted QITE-VQE Algorithm for Combinatorial Optimization Problems](https://arxiv.org/pdf/2504.10651)
 <br> Ningyi Xie, Xinwei Lee, **Tiejin Chen**, Yoshiyuki Saito, Nobuyoshi Asai, Dongsheng Cai<br>
 
-- [Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey](https://arxiv.org/pdf/2503.15850)
-<br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>,  Longchao Da, Chacha Chen, Zhen Lin, Hua Weii<br>
-
 - [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
 <br>Longchao Da, **Tiejin Chen**, Zhuoheng Li, Shreyas Bachiraju, Huaiyuan Yao, Li Li, Yushun Dong, Xiyang Hu, Zhengzhong Tu, Dongjie Wang, Yue Zhao, Xuanyu (Ben)Zhou, Ram Pendyala, Benjamin Stabler, Yezhou Yang, Xuesong Zhou, Hua Wei<br>
 
@@ -33,6 +30,17 @@ Lastest Update: 04/26/2025&nbsp;
 
 
 ## Conference Paper
+
+- [Vision Language Model Helps Private Information De-Identification in Vision Data](https://openreview.net/forum?id=g2CyeCHC32)
+<br>**Tiejin Chen**, Xiaoou Liu<sup>*</sup>,  Pingzhi Li, Kaixiong Zhou, Tianlong Chen, Hua Wei.<br>Findings of the Association for Computational Linguistics ACL 2025 (ACL’25 Findings)<br>
+
+- [Unveiling Privacy Risks in Multi-modal Large Language Models: Task-specific Vulnerabilities and Mitigation Challenges](https://openreview.net/forum?id=wXWfOThQCT)
+<br>**Tiejin Chen**, Xiaoou Liu<sup>*</sup>,  Pingzhi Li, Kaixiong Zhou, Tianlong Chen, Hua Wei.<br>Findings of the Association for Computational Linguistics ACL 2025 (ACL’25 Findings)<br>
+
+
+- [Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey](https://arxiv.org/pdf/2503.15850)
+<br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>,  Longchao Da, Chacha Chen, Zhen Lin, Hua Wei<br>In the Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD’25)<br>
+
 
 - [Protecting Privacy against Membership Inference Attack with LLM Fine-tuning through Flatness](https://arxiv.org/abs/2403.04124)
 <br>**Tiejin Chen**, Longchao Da, Huixue Zhou, Pingzhi Li, Kaizhong Zhou, Tianlong Chen, Hua Wei<br>In SIAM International Conference on Data Mining (SDM'25). (Short version presented at ICLR 2024 Workshop on Secure and Trustworthy Large Language Models)<br>
