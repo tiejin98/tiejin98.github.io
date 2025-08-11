@@ -4,12 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 04/26/2025&nbsp; 
+Lastest Update: 08/10/2025&nbsp; 
 
 ## Preprints
-- [An Adaptive Weighted QITE-VQE Algorithm for Combinatorial Optimization Problems](https://arxiv.org/pdf/2504.10651)
-<br> Ningyi Xie, Xinwei Lee, **Tiejin Chen**, Yoshiyuki Saito, Nobuyoshi Asai, Dongsheng Cai<br>
-
 - [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
 <br>Longchao Da, **Tiejin Chen**, Zhuoheng Li, Shreyas Bachiraju, Huaiyuan Yao, Li Li, Yushun Dong, Xiyang Hu, Zhengzhong Tu, Dongjie Wang, Yue Zhao, Xuanyu (Ben)Zhou, Ram Pendyala, Benjamin Stabler, Yezhou Yang, Xuesong Zhou, Hua Wei<br>
 
@@ -31,11 +28,15 @@ Lastest Update: 04/26/2025&nbsp;
 
 ## Conference Paper
 
+
+- [An Adaptive Weighted QITE-VQE Algorithm for Combinatorial Optimization Problems](https://arxiv.org/pdf/2504.10651)
+<br> Ningyi Xie, Xinwei Lee, **Tiejin Chen**, Yoshiyuki Saito, Nobuyoshi Asai, Dongsheng Cai<br> 2025 IEEE International Conference on Quantum Computing and Engineering (QCE)
+
 - [Vision Language Model Helps Private Information De-Identification in Vision Data](https://openreview.net/forum?id=g2CyeCHC32)
-<br>**Tiejin Chen**, Xiaoou Liu<sup>*</sup>,  Pingzhi Li, Kaixiong Zhou, Tianlong Chen, Hua Wei.<br>Findings of the Association for Computational Linguistics ACL 2025 (ACL’25 Findings)<br>
+<br>**Tiejin Chen**, Pingzhi Li, Kaixiong Zhou, Tianlong Chen, Hua Wei.<br>Findings of the Association for Computational Linguistics ACL 2025 (ACL’25 Findings)<br>
 
 - [Unveiling Privacy Risks in Multi-modal Large Language Models: Task-specific Vulnerabilities and Mitigation Challenges](https://openreview.net/forum?id=wXWfOThQCT)
-<br>**Tiejin Chen**, Xiaoou Liu<sup>*</sup>,  Pingzhi Li, Kaixiong Zhou, Tianlong Chen, Hua Wei.<br>Findings of the Association for Computational Linguistics ACL 2025 (ACL’25 Findings)<br>
+<br>**Tiejin Chen**, Pingzhi Li, Kaixiong Zhou, Tianlong Chen, Hua Wei.<br>Findings of the Association for Computational Linguistics ACL 2025 (ACL’25 Findings)<br>
 
 
 - [Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey](https://arxiv.org/pdf/2503.15850)
