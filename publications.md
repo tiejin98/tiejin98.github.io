@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 01/07/2026&nbsp; 
+Lastest Update: 01/25/2026&nbsp; 
 
 ## Preprints
 - [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
@@ -24,6 +24,10 @@ Lastest Update: 01/07/2026&nbsp;
 
 
 ## Conference Paper
+
+- Agentic AI for Trip Planning Optimization Application
+<br>**Tiejin Chen**, Ahmadreza Moradipari, Kyungtae Han, Hua Wei, Nejib Ammar<br>The IEEE Intelligent Vehicles Symposium (IV) 2026<br>
+
 
 - [Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models](https://openreview.net/pdf?id=ONYnoZibGJ)
 <br>**Tiejin Chen<sup>*</sup>**, Kaishen Wang<sup>*</sup>, Hua Wei<br>The 19th Conference of the European Chapter
@@ -74,5 +78,6 @@ of the Association for Computational Linguistics (EACL 2026 Findings)<br>
 - [Prison term prediction of dangerous driving based on probabilistic graphical mode](https://science.scu.edu.cn/jsunature_en/article/abstract/z200575)<br>Chen Hongxu, **Chen Tiejin**, Wang Hao, Tian Wei<br>Journal of Sichuan University（Natural Science Edition）<br>
 
 ## Working Manuscript
-two unpublic paper is under review of ACL.
+one unpublic paper is under review of ACL. Two unpublic paper is under review of ICML.
+
 
