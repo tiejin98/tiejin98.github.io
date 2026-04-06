@@ -82,6 +82,6 @@ of the Association for Computational Linguistics (EACL 2026 Findings)<br>
 - [Prison term prediction of dangerous driving based on probabilistic graphical mode](https://science.scu.edu.cn/jsunature_en/article/abstract/z200575)<br>Chen Hongxu, **Chen Tiejin**, Wang Hao, Tian Wei<br>Journal of Sichuan University（Natural Science Edition）<br>
 
 ## Working Manuscript
-one unpublic paper is under review of ACL. Two unpublic paper is under review of ICML.
+Two unpublic paper is under review of ICML. One unpublic papser is uder review of KDD.
 
 
