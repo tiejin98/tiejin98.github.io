@@ -7,7 +7,7 @@ layout: page
 <!-- <img src="https://tiejin1998.github.io/tiejin-bio.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Tiejin Chen (陈铁今)**.
-I am a third year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_011626.pdf).
+I am a third year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_040626.pdf).
 
 <br>
 
@@ -29,13 +29,15 @@ I am a third year Ph.D. student in **Computer Science** at Arizona State Univers
 ---
 
 ## Service
-Reviewer: PAKDD 2024,2026, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 2024 SafeGenAI Workshop, ICLR 2025,2026 SDM 2025, CVPR2025, ICCV2025, ACL 2025 Demo Track, EMNLP 2025 Demo Track, COLM2025, AAAI 2026, EACL 2026 Demo Track, EACL 2026
+Reviewer: PAKDD 2024,2026, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 2024 SafeGenAI Workshop, ICLR 2025,2026 SDM 2025, CVPR2025, ICCV2025, ACL 2025 Demo Track, EMNLP 2025 Demo Track, COLM2025, AAAI 2026, EACL 2026 Demo Track, EACL 2026，KDD2026， ACL 2026 Demo Track.
 
 ---
 
 ## News
+- **Apr-2026** Two paper is accepted by ACL 26' (1 Main + 1 Findings)! See you at San Diego!
+- **March-2026** Excited to share that I will rejoin Amazon this Summer as an applied scientist intern! See you at bay area!
 - **Jan-2026** One paper is accepted by IV 26'! See you at Ann Arbor!
-- **Jan-2026** Two paper is accepted by EACL 26'!
+- **Jan-2026** Two paper is accepted by EACL 26' (1 Main + 1 Findings)!
 - **Dec-2025** One paper is accepted by ACM SIGKDD Explorations!
 - **Aug-2025** Excited to share that I will join Amazon this Fall as an applied scientist intern!
 - **May-2025** Two paper is accepted by ACL 25' Findings. See you at Vienna!
