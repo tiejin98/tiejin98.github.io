@@ -29,13 +29,20 @@ I am a third year Ph.D. student in **Computer Science** at Arizona State Univers
 ---
 
 ## Service
-Reviewer: PAKDD 2024,2026, ICLR 2024 SeT LLM Workshop, WACV 2025, Neurips 2024 SafeGenAI Workshop, ICLR 2025,2026 SDM 2025, CVPR2025, ICCV2025, ACL 2025 Demo Track, EMNLP 2025 Demo Track, COLM2025, AAAI 2026, EACL 2026 Demo Track, EACL 2026，KDD2026， ACL 2026 Demo Track.
+**Reviewer**: 
+- Main: PAKDD 2024,2026; WACV 2025; ICLR 2025,2026; SDM 2025; CVPR2025; ICCV2025; COLM2025; AAAI 2026;  EACL 2026; KDD2026.
+- Demo Track: ACL 2025 Demo Track; EMNLP 2025 Demo Track; EACL 2026 Demo Track; ACL 2026 Demo Track.
+- Workshop: ICLR 2024 SeT LLM Workshop; Neurips 2024 SafeGenAI Workshop; ICLR 2026 DATA-FM Workshop; ICLR 2026 RSI Workshop.
+
+**Teaching Assistant**: 
+- CSE 355, Intro Theoretical Computer Sci, Spring 2025.
+- CSE 572, Data Mining, Spring 2026.
 
 ---
 
 ## News
 - **Apr-2026** Two paper is accepted by ACL 26' (1 Main + 1 Findings)! See you at San Diego!
-- **March-2026** Excited to share that I will rejoin Amazon this Summer as an applied scientist intern! See you at bay area!
+- **Mar-2026** Excited to share that I will rejoin Amazon this Summer as an applied scientist intern! See you at Bay Area!
 - **Jan-2026** One paper is accepted by IV 26'! See you at Ann Arbor!
 - **Jan-2026** Two paper is accepted by EACL 26' (1 Main + 1 Findings)!
 - **Dec-2025** One paper is accepted by ACM SIGKDD Explorations!
