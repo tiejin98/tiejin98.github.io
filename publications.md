@@ -41,6 +41,9 @@ of the Association for Computational Linguistics (Oral at EACL 2026 Main), Also 
 <br>**Tiejin Chen**, Xiaoou Liu, Vishnu Nandam, Kuan-Ru Liou, Hua Wei<br>Findings of The 19th Conference of the European Chapter
 of the Association for Computational Linguistics (EACL 2026 Findings)<br>
 
+- [Joint-Local Grounded Action Transformation for Sim-to-Real Transfer in Multi-Agent Traffic Control](https://arxiv.org/abs/2507.15174)
+<br>Justin Turnau, Longchao Da, Khoa Vo, Ferdous Al Rafi, Shreyas Bachiraju, **Tiejin Chen**, Hua Wei<br>Reinforcement Learning Conference (RLC) 2025<br>
+
 - [An Adaptive Weighted QITE-VQE Algorithm for Combinatorial Optimization Problems](https://arxiv.org/pdf/2504.10651)
 <br> Ningyi Xie, Xinwei Lee, **Tiejin Chen**, Yoshiyuki Saito, Nobuyoshi Asai, Dongsheng Cai<br> 2025 IEEE International Conference on Quantum Computing and Engineering (QCE)
 
@@ -50,6 +53,9 @@ of the Association for Computational Linguistics (EACL 2026 Findings)<br>
 - [Unveiling Privacy Risks in Multi-modal Large Language Models: Task-specific Vulnerabilities and Mitigation Challenges](https://openreview.net/forum?id=wXWfOThQCT)
 <br>**Tiejin Chen**, Pingzhi Li, Kaixiong Zhou, Tianlong Chen, Hua Wei.<br>Findings of the Association for Computational Linguistics ACL 2025 (ACL’25 Findings)<br>
 
+- [Reproducible and Low-cost Sim-to-Real Environment for Traffic Signal Control](https://dl.acm.org/doi/10.1145/3716550.3725161)
+<br>Yiran Zhang, Khoa Vo, Longchao Da, **Tiejin Chen**, Xiaoou Liu, Hua Wei<br>ACM/IEEE 16th International Conference on Cyber-Physical Systems (ICCPS 2025)<br>
+
 
 - [Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey](https://arxiv.org/pdf/2503.15850)
 <br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>,  Longchao Da, Chacha Chen, Zhen Lin, Hua Wei<br>In the Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD’25)<br>
@@ -58,6 +64,9 @@ of the Association for Computational Linguistics (EACL 2026 Findings)<br>
 - [Protecting Privacy against Membership Inference Attack with LLM Fine-tuning through Flatness](https://arxiv.org/abs/2403.04124)
 <br>**Tiejin Chen**, Longchao Da, Huixue Zhou, Pingzhi Li, Kaizhong Zhou, Tianlong Chen, Hua Wei<br>In SIAM International Conference on Data Mining (SDM'25). (Short version presented at ICLR 2024 Workshop on Secure and Trustworthy Large Language Models)<br>
 
+
+- [Abg-SciQA: A dataset for Understanding and Resolving Ambiguity in Scientific Questions](https://openreview.net/forum?id=GvI3QvhIum)
+<br>**Tiejin Chen<sup>*</sup>**, Kuan-Ru Liou<sup>*</sup>, Mithun Shivakoti, Aaryan Gaur, Pragya Kumari, Meiqi Guo, Hua Wei<br>ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models<br>
 
 - [SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras](https://arxiv.org/abs/2408.09588)
 <br>**Tiejin Chen<sup>*</sup>**, Prithvi Parag Shirke<sup>*</sup>, Bharatesh Chakravarthi, Arpitsinh Rohitkumar Vaghela, Longchao Da, Duo Lu, Yezhou Yang, Hua Wei<br> In Proceedings of 27th IEEE International Conference on Intelligent Transportation Systems (ITSC'24).<br>
