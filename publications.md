@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 04/06/2026&nbsp; 
+Lastest Update: 04/30/2026&nbsp; 
 
 ## Preprints
 - [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
@@ -21,6 +21,13 @@ Lastest Update: 04/06/2026&nbsp;
 
 
 ## Conference Paper
+
+- Position: Uncertainty Quantification in LLMs is Just Unsupervised Clustering
+<br>**Tiejin Chen**, Longchao Da, Xiaoou Liu, Hua Wei<br>Forty-Third International Conference on Machine Learning - Position Track (ICML' 26)<br>
+
+- Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution
+<br>Xiaoou Liu, **Tiejin Chen**, Dengjia Zhang, Yaqing Wang, Lu Cheng, Hua Wei<br>Forty-Third International Conference on Machine Learning (ICML' 26)<br>
+
 - Every Response Counts: Quantifying Uncertainty of LLM-based Multi-Agent Systems through Tensor Decomposition
 <br>**Tiejin Chen**, Huaiyuan Yao, Jia Chen, Evangelos E. Papalexakis, Hua Wei<br>The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Main)<br>
 

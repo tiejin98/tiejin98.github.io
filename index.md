@@ -7,7 +7,7 @@ layout: page
 <!-- <img src="https://tiejin1998.github.io/tiejin-bio.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Tiejin Chen (陈铁今)**.
-I am a third year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_040626.pdf).
+I am a third year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_043026.pdf).
 
 <br>
 
@@ -41,6 +41,7 @@ I am a third year Ph.D. student in **Computer Science** at Arizona State Univers
 ---
 
 ## News
+- **Apr-2026** Two paper is accepted by ICML 26'! 
 - **Apr-2026** Two paper is accepted by ACL 26' (1 Main + 1 Findings)! See you at San Diego!
 - **Mar-2026** Excited to share that I will rejoin Amazon this Summer as an applied scientist intern! See you at Bay Area!
 - **Jan-2026** One paper is accepted by IV 26'! See you at Ann Arbor!
