@@ -41,6 +41,9 @@ I am a third year Ph.D. student in **Computer Science** at Arizona State Univers
 ---
 
 ## News
+
+<div style="max-height: 270px; overflow-y: auto; padding: 0.4em 1.1em; border: 1px solid #e2e2e2; border-radius: 8px;" markdown="1">
+
 - **Jun-2026** One paper is accepted by Transactions on Machine Learning Research (TMLR)! 
 - **Jun-2026** One paper is accepted by KDD 26' Blue Sky Track! 
 - **Apr-2026** Two paper is accepted by ICML 26'! 
@@ -56,6 +59,8 @@ I am a third year Ph.D. student in **Computer Science** at Arizona State Univers
 - **Dec-2024** One paper is accepted by SDM 25'. See you at Alexandria Virginia!
 - **Oct-2024** One paper is accepted by Neurips2024 SafeGenAI Workshop. See you at Vancouver!
 - **July-2024** One paper is accepted by ITSC 24'. See you at Edmonton!
+
+</div>
 
 ---
 
