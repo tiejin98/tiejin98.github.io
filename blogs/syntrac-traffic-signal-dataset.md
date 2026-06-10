@@ -6,39 +6,38 @@ title: syntrac-traffic-signal-dataset
 
 # SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras
 
-Reinforcement learning controllers for traffic signals work well in simulation, but they learn from clean feature vectors such as per-lane vehicle counts, while real intersections only give camera images. This work introduces **SynTraC**, the first public dataset that pairs realistic intersection-camera images with traffic signal states and control rewards. You can read the full paper [here](https://arxiv.org/abs/2408.09588).
+Reinforcement learning, where a controller learns by trial and error from a reward signal, now drives strong traffic signal control in simulation. The catch is that these controllers learn from clean feature vectors such as per-lane vehicle counts, while a real intersection only offers camera images. This work introduces **SynTraC**, the first public image-based traffic signal control dataset, which pairs realistic intersection-camera images with traffic signal states and control rewards. You can read the full paper [here](https://arxiv.org/abs/2408.09588).
 
 ---
 
-## The Challenge: Control Algorithms Learn from Counts, Not Cameras
+## Why Image-Based Signal Control Is Still Hard
 
-Traditional signal control datasets hand the agent simplified counts from a 2D simulator, while vision datasets carry no signal or reward information. Nothing connects the realistic visual input a real deployment sees to the signal states and rewards a control algorithm needs, so methods cannot be studied on the input they will actually face.
+Existing traffic-signal datasets fall into two camps that never meet. Some hand the controller simplified per-lane counts from a 2D simulator but no images, and others provide images but carry no signal state or reward. Because nothing connects the realistic visual input a deployed camera sees to the signals and rewards a controller needs, methods cannot be developed or fairly tested on the input they will actually face on the street. SynTraC is built to close that gap.
 
 ---
 
-## How SynTraC Is Built
+## Inside SynTraC
 
-SynTraC is rendered in a 3D simulator and ships over 86,000 images, more than 225,000 vehicle boxes, and over 250,000 reward values across varied weather and lighting.
+SynTraC is rendered in a 3D simulator and pairs a large collection of intersection images with the signal states and rewards a controller needs, all spanning varied weather and lighting.
 
 ![Overview of SynTraC across cameras, weather, and time of day](https://tiejin98.github.io/blog_image/syntrac-traffic-signal-dataset/overview.png)
 *SynTraC provides synchronized views from four intersection cameras under varied weather and lighting, together with signal states and rewards that earlier datasets do not offer.*
 
-The dataset is built in four steps.
+**Diverse scenes come first.** Construction begins by randomizing weather and time of day and laying out many traffic flows at a four-way intersection watched by four cameras. The diversity is deliberate, because a controller that only ever sees clear daytime traffic will not survive rain or night, so the dataset bakes those conditions in from the start.
 
-1. Configure the scene by randomizing weather and time, setting twelve traffic flows at a four-way intersection, and placing four cameras that capture one frame per second.
-2. Simulate and capture, grabbing one image per simulated second and projecting 3D positions into 2D bounding boxes and lane markers.
-3. Assign lanes with a cross-product test between a lane reference vector and each vehicle vector.
-4. Compute three rewards that control algorithms can optimize, namely waiting time, queue length, and throughput.
+**Images arrive with exact labels.** The simulator is stepped forward and one frame per second is captured, and because the simulator knows every object's true position, those positions are projected into image-space bounding boxes and lane positions automatically. Generating data this way yields perfectly accurate annotations at a scale that would be costly and error prone to label by hand on real footage.
+
+**Detections become the counts a controller expects.** Each vehicle is then assigned to a lane with a simple geometric test, which bridges raw detections to the per-lane counts that most signal policies consume. Finally SynTraC computes three reward signals, namely waiting time, queue length, and throughput, because a learning policy needs a reward and not just pictures, and supplying them is what turns a perception dataset into a control benchmark.
 
 ---
 
-## Key Findings
+## Perception Is the Bottleneck, Especially at Night
 
-The benchmark plugs a detection model that counts vehicles into a control policy and tests it online, revealing a clear gap between control with perfect counts and control that must read images.
+When the policies are given perfect vehicle counts, most of the learned controllers outperform the rule based baselines, which confirms that the control side behaves as expected.
 
 ![Control performance across weather and time](https://tiejin98.github.io/blog_image/syntrac-traffic-signal-dataset/results.png)
 
-With ground-truth counts the learned policies beat the rule based baselines, but once a detection model supplies the counts, performance drops, and the drop is worst at night where detection error is largest.
+The moment a real detection model supplies those counts, performance falls, and it falls the most at night where detection is hardest. This is the dataset's main message, since it shows that strong control does not survive the move from idealized counts to real perception, and that closing the gap is an open problem SynTraC is built to study.
 
 ---
 

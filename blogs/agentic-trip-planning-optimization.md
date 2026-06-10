@@ -18,29 +18,42 @@ Classical pathfinders ignore preferences, manual planning is suboptimal, and exi
 
 ## A Coordinated Multi-Agent System
 
-The central insight is that multi-agent superiority is not automatic, and what makes it work is centralized orchestration plus the ability to re-think and self-correct.
+The central insight is that multi-agent superiority is not automatic, and what makes it work is a central controller paired with the ability to re-think and self-correct.
 
 ![The three-component agentic system](https://tiejin98.github.io/blog_image/agentic-trip-planning-optimization/overview.png)
 *An Orchestration Agent sits between the in-vehicle interaction layer and a pool of specialized agents for traffic, calculation, and points of interest, and it re-thinks whenever a sub-task fails.*
 
-The system works in four parts.
+### Ground the request before planning
 
-1. An In-Vehicle Agent turns the natural language request into a clear structured query and handles clarification.
-2. The Orchestration Agent decomposes the goal into interdependent sub-tasks and dispatches them.
-3. Specialized agents execute, where a Traffic Agent returns time conditioned travel times, a Calculation Agent scores itineraries and spots concurrent savings such as charging during a coffee stop, and points-of-interest agents return dwell time, hours, and cost.
-4. The Orchestrator integrates the results and re-thinks on errors, so the workflow is dynamic rather than a fixed chain.
+An In-Vehicle Agent first turns the driver's natural language request into a clear structured query and resolves anything ambiguous. The motivation is simple, since optimization is meaningless if the goal is misread, so intent is pinned down before any search begins.
 
-To measure optimization rather than feasibility, the TOP benchmark computes exact optimal solutions for 500 questions across 15 categories and three difficulty levels, where every question carries a deterministic workflow that produces the verifiable answer.
+### Let one controller own the whole plan
+
+The Orchestration Agent decomposes the goal into interdependent sub-tasks and decides which specialist to call next. A single pass cannot optimize a route where each choice depends on the others, so a central controller is needed to hold the entire plan in view and weigh trade-offs across sub-tasks rather than greedily.
+
+### Delegate to specialists with the right tools
+
+Execution is handed to focused agents, a Traffic Agent for time conditioned travel times, a Calculation Agent that scores itineraries and spots concurrent savings such as charging during a coffee stop, and points-of-interest agents that report dwell time, hours, and cost. Each task needs its own data and tools, so splitting the work keeps every piece accurate and lets the controller combine parts it can trust.
+
+### Re-think when a step fails
+
+Crucially, the Orchestrator inspects what comes back and re-issues a corrected request when something is wrong, so the workflow is dynamic rather than a fixed chain. This is exactly what separates it from a decentralized swarm, which tends to loop until timeout when a sub-task errs instead of diagnosing and repairing the mistake.
 
 ---
 
-## Key Findings
+## A Benchmark with Ground-Truth Optima
 
-All systems use the same model, tools, and offline database, and a response counts only on an exact match to the optimum.
+Because existing benchmarks lack a true optimum, the work also builds TOP, which attaches a deterministic workflow to every question that computes the exact best plan, so an answer can be checked against ground truth instead of a biased judge. It spans many question categories and three difficulty levels, which makes it possible to see not just whether a system is right but where its optimization starts to break down.
+
+---
+
+## Orchestration, Not Agent Count, Drives the Gains
+
+Holding the model, tools, and database fixed, the orchestrated system is far more accurate than both a single agent and a decentralized swarm, and its lead grows as questions get harder and force more constraints to be juggled at once.
 
 ![Accuracy across difficulty levels](https://tiejin98.github.io/blog_image/agentic-trip-planning-optimization/results.png)
 
-The agentic system reaches 77.4 percent overall, far above the single agent at 30.4 percent and the swarm at 23.6 percent, and the gap widens to nearly seven times on hard questions. Notably the single agent beats the swarm, which confirms that orchestration, not agent count, drives the gains.
+The most telling result is that the single agent actually beats the swarm, which makes the point sharply, since simply adding agents without a controller hurts rather than helps. The advantage comes from coordination and self-correction, precisely the pieces the swarm lacks.
 
 ---
 

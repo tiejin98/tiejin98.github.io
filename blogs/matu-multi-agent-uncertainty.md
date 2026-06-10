@@ -10,36 +10,34 @@ LLM multi-agent systems beat single agents on hard tasks, yet we still cannot te
 
 ---
 
-## The Challenge: Uncertainty Lives in the Whole Reasoning Process
+## Why Single-Answer Uncertainty Breaks Down for Agent Teams
 
-Existing uncertainty quantification was designed for one model answering one question once. A multi-agent system instead produces many reasoning steps, many communication paths between agents, and runs under different topologies such as star, chain, or dynamic routing. Reading only the final answer throws away almost everything that makes such a system uncertain, so a method built for single answers cannot capture cascading errors or disagreement between agents.
+Existing uncertainty quantification was built for one model answering one question once, and it usually compares only final answers. A multi-agent system is different in three ways that this view cannot see. Its reasoning unfolds over many steps, so an early mistake can quietly cascade into a confident but wrong outcome, which is dangerous in high-stakes settings like healthcare. Its agents exchange information along paths that change from run to run. And it can be wired into different topologies such as star, chain, or dynamic routing. Reading only the last sentence discards exactly the structure that decides whether the system is reliable.
 
 ---
 
-## MATU: Reading Uncertainty from a Tensor of Trajectories
+## How MATU Measures It
 
-The core intuition is that a reliable system reaches the same place through similar reasoning, so its repeated runs share a common low-rank structure. The harder those runs are to compress into that shared structure, the more the agents disagree, and the higher the uncertainty.
+The guiding intuition is that a reliable system reaches the same place through similar reasoning, so its repeated runs share a common low rank structure, and whatever refuses to fit that structure is uncertainty.
 
 ![The MATU pipeline](https://tiejin98.github.io/blog_image/matu-multi-agent-uncertainty/overview.png)
 *The MATU pipeline turns each run into embedding matrices, stacks them into a ragged tensor over steps, agents, and runs, and reads uncertainty from the reconstruction error of a low-rank decomposition.*
 
-The method works in five steps.
-
-1. Run the system ten times on a task and record every agent's step-by-step reasoning, including tool outputs.
-2. Embed each step with a pretrained text embedding model, so each run of each agent becomes a matrix of embeddings.
-3. Stack the matrices into a three-dimensional ragged tensor whose modes are steps, agents, and runs, which absorbs trajectories of different lengths.
-4. Apply PARAFAC2 (CP-2) decomposition to recover the shared consensus across runs.
-5. Sum the reconstruction error across ranks and use it as the uncertainty score, where a larger residual means more disagreement and lower reliability.
+1. **Collect the full trajectories.** MATU runs the system several times and records every agent's complete step by step reasoning, including tool calls. A multi-agent failure usually hides in a handoff rather than the final line, so the measurement has to begin from the whole process observed across repeated runs.
+2. **Embed every step.** Each step is mapped into a shared embedding space. Raw text cannot be compared directly, but in this space reasoning that means the same thing lands close together, which turns the question of whether the runs thought alike into something we can compute.
+3. **Stack the runs into a ragged tensor.** The embedding matrices are arranged along three axes, namely steps, agents, and runs. Trajectories differ in length and come from different roles, so a ragged tensor is used deliberately, because it keeps that shape instead of forcing every run into one mold and erasing the communication patterns that carry the uncertainty.
+4. **Decompose to the shared consensus.** A PARAFAC2 decomposition recovers the low rank pattern the runs have in common, which is what the system tends to do. A reliable system sits almost entirely inside this shared structure, so the decomposition is really recovering its expected reasoning.
+5. **Read the leftover residual.** Whatever the consensus cannot explain, summed across ranks, becomes the uncertainty score. This residual is the spread of the runs around their own consensus, which is exactly variance, now measured over reasoning trajectories instead of plain numbers.
 
 ---
 
-## Key Findings
+## One Score That Holds Across Models and Topologies
 
-MATU was tested on three multi-agent frameworks and three models across math, multi-hop QA, and general reasoning. It gives the best AUROC and AUARC almost everywhere, and the gains are largest on harder reasoning tasks.
+Across three multi-agent frameworks, three models, and tasks spanning math, multi-hop QA, and general reasoning, MATU is the most reliable at telling correct runs from incorrect ones.
 
 ![Main results](https://tiejin98.github.io/blog_image/matu-multi-agent-uncertainty/results.png)
 
-On math with Llama3.1-8B, AUROC reaches 0.7354 while the strongest baseline stays near 0.56. A case study makes the difference concrete. A length-sensitive baseline flags a fully correct system as highly uncertain simply because some runs are verbose, while MATU correctly reports low uncertainty by aligning the reasoning across runs.
+A case study shows why it wins where others stumble. When every run reaches the right answer but some take a long, verbose path, a length sensitive baseline mistakes that verbosity for doubt and reports high uncertainty, while MATU recognizes that the runs agree in meaning and stays confident. This supports the central claim that reliability should be read from the shared reasoning, not from surface features of the text.
 
 ---
 

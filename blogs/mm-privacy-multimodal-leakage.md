@@ -6,41 +6,51 @@ title: mm-privacy-multimodal-leakage
 
 # Unveiling Privacy Risks in Multi-modal Large Language Models: Task-specific Vulnerabilities and Mitigation Challenges
 
-Multi-modal LLMs can read sensitive information printed in an image or recall it from fine-tuning, yet this risk is underexplored. This work introduces **MM-Privacy**, a benchmark that measures such leakage and shows it depends heavily on how the model is asked. You can read the full paper [here](https://openreview.net/forum?id=wXWfOThQCT).
+Multi-modal large language models, which read both text and images, can leak sensitive information printed in an image or recall it from fine-tuning, yet this risk is underexplored. This work introduces **MM-Privacy**, a benchmark that measures such leakage and shows it depends heavily on how the model is asked. You can read the full paper [here](https://openreview.net/forum?id=wXWfOThQCT).
 
 ---
 
-## The Challenge: Privacy Leakage Depends on How You Ask
+## Leakage That Depends on How You Ask
 
-Privacy risk in multi-modal LLMs is task inconsistent, and existing safeguards do not generalize across ways of asking. For aligned closed-source models, indirect tasks such as captioning and rephrasing leak the most because they pull attention away from privacy, while a direct request is refused. For open-source models the opposite holds, since weak alignment means asking directly works best. Any real defense therefore has to be task aware.
+Privacy leakage in text-only models is well documented, but multi-modal models add new risks that prior work barely touched, since earlier studies mostly asked whether a model can recognize private information rather than whether it leaks it. The headline finding is that leakage is task inconsistent, so a safeguard tuned for one way of asking does not carry over to another. Aligned closed-source models tend to refuse a blunt request, yet indirect tasks such as captioning and rephrasing slip past their guardrails more often. Open-source models behave almost in reverse, since weaker alignment makes a direct question the most effective probe.
 
 ![Scenarios and prompts in the benchmark](https://tiejin98.github.io/blog_image/mm-privacy-multimodal-leakage/overview.png)
-*The benchmark spans four realistic scenarios, hiring, verification, finance, and open context, with forms that embed synthetic emails, phone numbers, and SSNs.*
+*The benchmark spans four realistic scenarios, hiring, verification, finance, and open context, with forms that embed synthetic emails, phone numbers, and social security numbers.*
 
 ---
 
-## Building the MM-Privacy Benchmark
+## Building MM-Privacy
 
-The benchmark is constructed in five steps.
+To pin down such a slippery effect, the benchmark is built so every source of leakage can be attributed cleanly.
 
-1. Define two risk types, disclosure risk for information present in the input image and retention risk for information memorized during fine-tuning.
-2. Generate synthetic private information and embed it into form images, made by automatic templates, by humans filling printed forms, and by a diffusion model with a human quality filter.
-3. Separate a memory set, injected only for the retention test, from a non-overlapping evaluation set, so any leak is attributable to memorization rather than to reading the input.
-4. Probe each item under five tasks, namely directly ask, captioning, visual question answering, rephrasing, and classification.
-5. Score with attack success rate, where higher means more leakage, and refuse rate, where lower means more leakage.
+### Two kinds of risk
+
+It separates disclosure risk, leaking information that sits in the input image, from retention risk, leaking information memorized during fine-tuning. These are different threat models, so measuring them apart is what lets the study say where a leak actually came from.
+
+### Realistic images from several sources
+
+Synthetic personal information is embedded into form images built three ways, by automatic templates, by people who fill in and photograph printed forms, and by a diffusion model whose scenes pass through a human quality filter, with the diffusion images reserved for the memorization test. Several sources at once buy both scale and realism, and keeping every record synthetic keeps the benchmark ethical.
+
+### Memory kept apart from evaluation
+
+The information injected into the model's memory and the information used to probe it come from non-overlapping sets. This separation is essential, because it ensures a leak in the retention test reflects genuine memorization rather than the model simply reading its input.
+
+### Five framings of the same request
+
+Every item is posed five ways, namely directly ask, captioning, visual question answering, rephrasing, and classification, then scored by attack success rate, how often the private value is leaked, together with refuse rate, how often the model declines. Asking the same thing in different framings is the heart of the design, since it is exactly how the study reveals that leakage tracks the framing rather than the content.
 
 ---
 
-## Key Findings
+## The Same Image Leaks Differently Depending on the Ask
 
-The results expose both the open versus closed gap and the task inconsistency.
+Open-source models leak heavily and often comply outright, while closed-source models show a subtler pattern, since indirect framings like captioning and rephrasing bypass their safeguards more often than a direct request does.
 
 ![Leakage across tasks and models](https://tiejin98.github.io/blog_image/mm-privacy-multimodal-leakage/results.png)
 
-Open-source models leak heavily, and one model under supervised fine-tuning reaches attack success around 0.84 for email and phone when asked directly. Closed-source models flip the pattern, refusing a direct request yet leaking most under captioning. Among injection methods, supervised fine-tuning overfits and leaks most, while contrastive learning preserves the most privacy.
+How the information is injected matters too, since straightforward fine-tuning memorizes and leaks the most while a contrastive objective protects it best. Taken together the results support the central claim that privacy risk here is task dependent, so a safeguard that blocks the obvious question can still be bypassed simply by rephrasing it.
 
 ---
 
 ## Takeaway
 
-Privacy in multi-modal LLMs is not a single property of a model. The same image leaks different amounts depending on the task framing, so a real defense must hold across direct and indirect requests, not just block the obvious question.
+Privacy in multi-modal models is not a single property of a model. The same image leaks different amounts depending on the task framing, so a real defense must hold across direct and indirect requests, not just block the obvious question.
