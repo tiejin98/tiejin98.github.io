@@ -7,7 +7,7 @@ layout: page
 <!-- <img src="https://tiejin1998.github.io/tiejin-bio.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Tiejin Chen (陈铁今)**.
-I am a third year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_043026.pdf).
+I am a third year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_060926.pdf).
 
 <br>
 
@@ -30,7 +30,7 @@ I am a third year Ph.D. student in **Computer Science** at Arizona State Univers
 
 ## Service
 **Reviewer**: 
-- Main: PAKDD 2024,2026; WACV 2025; ICLR 2025,2026; SDM 2025; CVPR2025; ICCV2025; COLM2025; AAAI 2026;  EACL 2026; KDD2026.
+- Main: PAKDD 2024,2026; WACV 2025; ICLR 2025,2026; SDM 2025, 2026; CVPR2025; ICCV2025; COLM2025, 2026; AAAI 2026;  EACL 2026; KDD2026. 
 - Demo Track: ACL 2025 Demo Track; EMNLP 2025 Demo Track; EACL 2026 Demo Track; ACL 2026 Demo Track.
 - Workshop: ICLR 2024 SeT LLM Workshop; Neurips 2024 SafeGenAI Workshop; ICLR 2026 DATA-FM Workshop; ICLR 2026 RSI Workshop.
 
@@ -41,6 +41,8 @@ I am a third year Ph.D. student in **Computer Science** at Arizona State Univers
 ---
 
 ## News
+- **Jun-2026** One paper is accepted by Transactions on Machine Learning Research (TMLR)! 
+- **Jun-2026** One paper is accepted by KDD 26' Blue Sky Track! 
 - **Apr-2026** Two paper is accepted by ICML 26'! 
 - **Apr-2026** Two paper is accepted by ACL 26' (1 Main + 1 Findings)! See you at San Diego!
 - **Mar-2026** Excited to share that I will rejoin Amazon this Summer as an applied scientist intern! See you at Bay Area!

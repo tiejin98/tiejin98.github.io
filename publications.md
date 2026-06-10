@@ -4,14 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 04/30/2026&nbsp; 
+Lastest Update: 06/09/2026&nbsp; 
 
 ## Preprints
 - [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
 <br>Longchao Da, **Tiejin Chen**, Zhuoheng Li, Shreyas Bachiraju, Huaiyuan Yao, Li Li, Yushun Dong, Xiyang Hu, Zhengzhong Tu, Dongjie Wang, Yue Zhao, Xuanyu (Ben)Zhou, Ram Pendyala, Benjamin Stabler, Yezhou Yang, Xuesong Zhou, Hua Wei<br>
-
-- [Federated Learning with Projected Trajectory Regularization](https://arxiv.org/abs/2312.14380)
-<br>**Tiejin Chen<sup>*</sup>**, Yuanpu Cao<sup>*</sup>, Yujia Wang<sup>*</sup>, Cho-Jui Hsieh, Jinghui Chen<br>
 
 - [LLM Uncertainty Quantification through Directional Entailment Graph and Claim Level Response Augmentation](https://arxiv.org/abs/2407.00994)
 <br>Longchao Da, **Tiejin Chen**, Lu Cheng, Hua Wei<br>
@@ -22,13 +19,18 @@ Lastest Update: 04/30/2026&nbsp;
 
 ## Conference Paper
 
-- Position: Uncertainty Quantification in LLMs is Just Unsupervised Clustering
+
+- [The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective](https://arxiv.org/abs/2606.07017)
+<br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>, Weibo Li，Xiyang Hu, Hua Wei<br>In Proceedings of the 32nd ACM SIGKDD international conference on Knowledge discovery and data mining - Blue Sky Track (KDD' 26)<br>
+
+
+- [Position: Uncertainty Quantification in LLMs is Just Unsupervised Clustering](https://arxiv.org/abs/2605.19220)
 <br>**Tiejin Chen**, Longchao Da, Xiaoou Liu, Hua Wei<br>Forty-Third International Conference on Machine Learning - Position Track (ICML' 26)<br>
 
-- Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution
+- [Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution](https://arxiv.org/abs/2605.19228)
 <br>Xiaoou Liu, **Tiejin Chen**, Dengjia Zhang, Yaqing Wang, Lu Cheng, Hua Wei<br>Forty-Third International Conference on Machine Learning (ICML' 26)<br>
 
-- Every Response Counts: Quantifying Uncertainty of LLM-based Multi-Agent Systems through Tensor Decomposition
+- [Every Response Counts: Quantifying Uncertainty of LLM-based Multi-Agent Systems through Tensor Decomposition](https://arxiv.org/abs/2604.08708)
 <br>**Tiejin Chen**, Huaiyuan Yao, Jia Chen, Evangelos E. Papalexakis, Hua Wei<br>The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Main)<br>
 
 
@@ -86,6 +88,10 @@ of the Association for Computational Linguistics (EACL 2026 Findings)<br>
 
 ## Journal Paper
 
+
+- [Federated Learning with Projected Trajectory Regularization](https://arxiv.org/abs/2312.14380)
+<br>**Tiejin Chen<sup>*</sup>**, Yuanpu Cao<sup>*</sup>, Yujia Wang<sup>*</sup>, Cho-Jui Hsieh, Jinghui Chen<br> Transactions on Machine Learning Research (TMLR).<br>
+
 - [Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013)
 <br>**Tiejin Chen**, Wenwang Huang, Linsey Pang, Dongsheng Luo, Hua Wei<br> ACM SIGKDD Explorations Newsletter.<br>
 
@@ -98,6 +104,7 @@ of the Association for Computational Linguistics (EACL 2026 Findings)<br>
 - [Prison term prediction of dangerous driving based on probabilistic graphical mode](https://science.scu.edu.cn/jsunature_en/article/abstract/z200575)<br>Chen Hongxu, **Chen Tiejin**, Wang Hao, Tian Wei<br>Journal of Sichuan University（Natural Science Edition）<br>
 
 ## Working Manuscript
-Two unpublic paper is under review of ICML. One unpublic papser is uder review of KDD.
+One unpublic papser is under review of ARR March Round. One unpublic papser is under review of ARR May Round. One unpublic papser is under review of NeurIPS 2026.
+
 
 
