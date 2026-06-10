@@ -38,7 +38,7 @@ Lastest Update: 06/09/2026&nbsp;
 <br>**Tiejin Chen**, Xiaoou Liu, Longchao Da, Jia Chen, Vagelis Papalexakis, Hua Wei<br> Findings of the Association for Computational Linguistics ACL 2026 (ACL’26 Findings)
 
 
-- Agentic AI for Trip Planning Optimization Application
+- [Agentic AI for Trip Planning Optimization Application](https://arxiv.org/abs/2605.00276)
 <br>**Tiejin Chen**, Ahmadreza Moradipari, Kyungtae Han, Hua Wei, Nejib Ammar<br>The IEEE Intelligent Vehicles Symposium (IV) 2026<br>
 
 
