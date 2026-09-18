@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 06/09/2026&nbsp; 
+Lastest Update: 09/10/2026&nbsp; 
 
 ## Preprints
 - [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
@@ -19,6 +19,14 @@ Lastest Update: 06/09/2026&nbsp;
 
 ## Conference Paper
 
+- Diverse Reasoning Paths Matter: Symbolic Equivalence Augmentation for Enhancing RL Exploration
+<br>Xiaoou Liu, **Tiejin Chen**, Hanyang Chen, Yuan Ling, Hua Wei<br>15th International Joint Conference on Natural Language Processing and the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP' 26)<br>
+
+- Detect Before You Disambiguate: Perturbation-Based Input Ambiguity Detection in LLMs
+<br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>, Ahmadreza Moradipari, Michael Clifford, Kyungtae Han, Yitao Chen, Nejib Ammar, Hua Wei<br>15th International Joint Conference on Natural Language Processing and the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP' 26)<br>
+
+- [Are LLM Uncertainty and Correctness Encoded by the Same Features? A Functional Dissociation via Sparse Autoencoders](https://arxiv.org/abs/2604.19974)
+<br>Het Patel, **Tiejin Chen**, Hua Wei, Evangelos E. Papalexakis, Jia Chen<br>In Proceedings of the SIAM International Conference on Data Mining 2026 (SDM' 26)<br>
 
 - [The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective](https://arxiv.org/abs/2606.07017)
 <br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>, Weibo Li，Xiyang Hu, Hua Wei<br>In Proceedings of the 32nd ACM SIGKDD international conference on Knowledge discovery and data mining - Blue Sky Track (KDD' 26)<br>
@@ -104,7 +112,7 @@ of the Association for Computational Linguistics (EACL 2026 Findings)<br>
 - [Prison term prediction of dangerous driving based on probabilistic graphical mode](https://science.scu.edu.cn/jsunature_en/article/abstract/z200575)<br>Chen Hongxu, **Chen Tiejin**, Wang Hao, Tian Wei<br>Journal of Sichuan University（Natural Science Edition）<br>
 
 ## Working Manuscript
-One unpublic papser is under review of ARR March Round. One unpublic papser is under review of ARR May Round. One unpublic papser is under review of NeurIPS 2026.
+One unpublic papser is under review of NeurIPS 2026 and One unpublic papser is under review of ICLR 2026.
 
 
 
