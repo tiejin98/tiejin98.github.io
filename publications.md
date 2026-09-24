@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 09/10/2026&nbsp; 
+Lastest Update: 09/24/2026&nbsp; 
 
 ## Preprints
 - [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
@@ -18,6 +18,10 @@ Lastest Update: 09/10/2026&nbsp;
 
 
 ## Conference Paper
+
+- Steering Vectors as a Training Signal in LLM Post-Training
+<br>**Tiejin Chen**, Maunil Rohitbhai Vyas, Huaiyuan Yao, Hua Wei<br>The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS' 26)<br>
+
 
 - Diverse Reasoning Paths Matter: Symbolic Equivalence Augmentation for Enhancing RL Exploration
 <br>Xiaoou Liu, **Tiejin Chen**, Hanyang Chen, Yuan Ling, Hua Wei<br>15th International Joint Conference on Natural Language Processing and the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP' 26)<br>
@@ -112,7 +116,7 @@ of the Association for Computational Linguistics (EACL 2026 Findings)<br>
 - [Prison term prediction of dangerous driving based on probabilistic graphical mode](https://science.scu.edu.cn/jsunature_en/article/abstract/z200575)<br>Chen Hongxu, **Chen Tiejin**, Wang Hao, Tian Wei<br>Journal of Sichuan University（Natural Science Edition）<br>
 
 ## Working Manuscript
-One unpublic papser is under review of NeurIPS 2026 and One unpublic papser is under review of ICLR 2026.
+One unpublic paper is under review of ICLR 2026.
 
 
 

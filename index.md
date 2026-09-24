@@ -7,7 +7,7 @@ layout: page
 <!-- <img src="https://tiejin1998.github.io/tiejin-bio.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Tiejin Chen (陈铁今)**.
-I am a fourth year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_091026.pdf).
+I am a fourth year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_092426.pdf).
 
 
 <span style="color:red"><strong>I am on the academic and industry job markets for the 2026–2027 cycle and am actively exploring opportunities worldwide. Please feel free to contact me if you know of any relevant opportunities!</strong></span>
@@ -47,6 +47,7 @@ I am a fourth year Ph.D. student in **Computer Science** at Arizona State Univer
 
 <div style="max-height: 270px; overflow-y: auto; padding: 0.4em 1.1em; border: 1px solid #e2e2e2; border-radius: 8px;" markdown="1">
 
+- **Sept-2026** One paper is accepted by NeurIPS' 26! See you at Atlanta!
 - **Sept-2026** Two papers are accepted by AACL-IJCNLP 26'!
 - **July-2026** One paper is accepted by SDM 26'! See you at Salt Lake City!
 - **Jun-2026** One paper is accepted by Transactions on Machine Learning Research (TMLR)! 
