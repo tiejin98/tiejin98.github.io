@@ -7,7 +7,7 @@ layout: page
 <!-- <img src="https://tiejin1998.github.io/tiejin-bio.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Tiejin Chen (陈铁今)**.
-I am a fourth year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_092426.pdf).
+I am a fourth year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_102726.pdf).
 
 
 <span style="color:red"><strong>I am on the academic and industry job markets for the 2026–2027 cycle and am actively exploring opportunities worldwide. Please feel free to contact me if you know of any relevant opportunities!</strong></span>

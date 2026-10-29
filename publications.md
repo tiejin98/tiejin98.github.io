@@ -4,9 +4,14 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 09/24/2026&nbsp; 
+Lastest Update: 10/28/2026&nbsp; 
 
 ## Preprints
+
+-[Steering the Teacher: Improving On-Policy Self-Distillation for Thinking Models](https://arxiv.org/abs/2610.34005)
+<br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>, Hanyang Chen, Hua Wei<br>
+
+
 - [Generative AI in Transportation Planning: A Survey](https://arxiv.org/abs/2503.07158)
 <br>Longchao Da, **Tiejin Chen**, Zhuoheng Li, Shreyas Bachiraju, Huaiyuan Yao, Li Li, Yushun Dong, Xiyang Hu, Zhengzhong Tu, Dongjie Wang, Yue Zhao, Xuanyu (Ben)Zhou, Ram Pendyala, Benjamin Stabler, Yezhou Yang, Xuesong Zhou, Hua Wei<br>
 
@@ -23,10 +28,10 @@ Lastest Update: 09/24/2026&nbsp;
 <br>**Tiejin Chen**, Maunil Rohitbhai Vyas, Huaiyuan Yao, Hua Wei<br>The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS' 26)<br>
 
 
-- Diverse Reasoning Paths Matter: Symbolic Equivalence Augmentation for Enhancing RL Exploration
+- [Diverse Reasoning Paths Matter: Symbolic Equivalence Augmentation for Enhancing RL Exploration](https://arxiv.org/abs/2610.22665)
 <br>Xiaoou Liu, **Tiejin Chen**, Hanyang Chen, Yuan Ling, Hua Wei<br>15th International Joint Conference on Natural Language Processing and the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP' 26)<br>
 
-- Detect Before You Disambiguate: Perturbation-Based Input Ambiguity Detection in LLMs
+- [Detect Before You Disambiguate: Perturbation-Based Input Ambiguity Detection in LLMs](https://arxiv.org/abs/2610.36353)
 <br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>, Ahmadreza Moradipari, Michael Clifford, Kyungtae Han, Yitao Chen, Nejib Ammar, Hua Wei<br>15th International Joint Conference on Natural Language Processing and the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP' 26)<br>
 
 - [Are LLM Uncertainty and Correctness Encoded by the Same Features? A Functional Dissociation via Sparse Autoencoders](https://arxiv.org/abs/2604.19974)
