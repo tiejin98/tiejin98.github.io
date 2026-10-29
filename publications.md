@@ -8,7 +8,7 @@ Lastest Update: 10/28/2026&nbsp;
 
 ## Preprints
 
--[Steering the Teacher: Improving On-Policy Self-Distillation for Thinking Models](https://arxiv.org/abs/2610.34005)
+- [Steering the Teacher: Improving On-Policy Self-Distillation for Thinking Models](https://arxiv.org/abs/2610.34005)
 <br>**Tiejin Chen<sup>*</sup>**, Xiaoou Liu<sup>*</sup>, Hanyang Chen, Hua Wei<br>
 
 
