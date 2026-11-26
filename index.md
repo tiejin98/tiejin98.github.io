@@ -33,13 +33,14 @@ I am a fourth year Ph.D. student in **Computer Science** at Arizona State Univer
 
 ## Service
 **Reviewer**: 
-- Main: PAKDD 2024,2026; WACV 2025,2027; BMVC 2026, ICLR 2025,2026; SDM 2025, 2026; CVPR2025; ICCV2025; COLM2025, 2026; AAAI 2026,2027; EACL 2026; KDD2026,2027
+- Main: PAKDD 2024,2026; WACV 2025,2027; BMVC 2026; ICLR 2025,2026,2027; SDM 2025, 2026; CVPR2025; ICCV2025; COLM2025, 2026; AAAI 2026,2027; EACL 2026; KDD2026,2027; NeurIPS 2026 (Top Reviewer); ARR Regular Reviewer
 - Demo Track: ACL 2025,2026 Demo Track; EMNLP 2025,2026 Demo Track; EACL 2026 Demo Track; 
 - Workshop: ICLR 2024 SeT LLM Workshop; Neurips 2024 SafeGenAI Workshop; ICLR 2026 DATA-FM Workshop; ICLR 2026 RSI Workshop; KDD 2026 Set LLM Workshop. 
 
 **Teaching Assistant**: 
 - CSE 355, Intro Theoretical Computer Sci, Spring 2025.
 - CSE 572, Data Mining, Spring 2026, Fall 2026.
+- CSE 598, Agentic AI, Fall 2026
 
 ---
 
